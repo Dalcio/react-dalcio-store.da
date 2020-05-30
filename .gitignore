@@ -4,7 +4,7 @@ componentsInstaldos.txt
 /node_modules
 /.pnp
 .pnp.js
-
+.env.development
 # testing
 /coverage
 
