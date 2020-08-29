@@ -1,4 +1,4 @@
-##See this project on netlify
+## [See this project on netlify](https://react-store-dalcio-garcia.netlify.app/)
 https://react-store-dalcio-garcia.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
